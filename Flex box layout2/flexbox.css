@@ -1,0 +1,60 @@
+body{
+  background-color:  hsl(0, 0%, 95%);
+}
+main{
+  width: 70%;
+  display: flex;
+  margin:16%;
+}
+
+.first{
+  background-color:hsl(31, 77%, 52%);
+  padding: 40px;
+}
+.second {
+  background-color: hsl(184, 100%, 22%);
+  padding: 40px;
+}
+.third {
+  background-color:hsl(179, 100%, 13%);
+  padding: 40px;
+}
+h3{
+  padding: 5px;
+  font-weight: bold;
+  color: hsla(0, 0%, 100%, 0.75);
+  font-size: 25px;
+  font-weight: 700;
+  font-family: 'Times New Roman', Times, serif
+}
+p{
+color: hsla(0, 0%, 100%, 0.75);
+padding: 5px;
+font-size: 15px;
+}
+button{
+  background-color:  hsl(0, 0%, 95%);
+  padding: 5px;
+  margin:15px;
+  border-radius: 14px;
+  font-size: 17px;
+}
+#sebutton{
+  color: hsl(31, 77%, 52%);
+}
+#subutton{
+color: hsl(184, 100%, 22%);  
+}
+#lubutton{
+  color:hsl(179, 100%, 13%);
+}
+.grid_btn{
+  background-color: steelblue;
+  width: 40%;
+}
+#a_grid{
+  text-decoration: none;
+    color: aliceblue;
+}
+
+
